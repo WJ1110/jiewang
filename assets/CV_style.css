@@ -1,0 +1,22 @@
+body{
+    background-color: #000000;
+}
+h1 {
+    color:blanchedalmond;
+}
+.CONTACT,.SKILLS,p {
+    color: blanchedalmond;
+    font-size: 12pt;
+}
+h2 {
+    color:rgb(251, 173, 56);
+    font-size: 18pt;
+}
+h3 {
+    color:rgb(251, 173, 56);
+    font-size: 14pt;
+}
+h4 {
+    color:blanchedalmond;
+    font-size: 14pt;
+}
